@@ -1,0 +1,40 @@
+body {
+    /*background: linear-gradient(to top left, #ffffcc 17%, #999966 71%); */ 
+    background-image: url("https://img.freepik.com/fotos-gratis/smooth-dark-blue-with-black-vignette-studio-bem-use-como-plano-de-fundo-relatorio-de-negocios-digital-modelo-de-site_1258-748.jpg?size=626&ext=jpg");
+    background-size: auto 100vh;
+    font-family: Monospace;
+    height: 100vh;
+  }
+    
+  .menu {
+    background-color: #F0FFFF;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #008080;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-subtitle,
+  .site-title {
+    color: whitesmoke;
+    text-align: center;
+  }
+  
+  .site-subtitle {
+    font-style: italic;
+  }
+  
